@@ -1,0 +1,6 @@
+#https://www.youtube.com/watch?v=jF71LzipydA
+
+
+A<-matrix(c(3,2,-1,2,-2,.5,-1,4,1),nrow=3)
+b=c(1,-2,0)
+solve(A,b)
